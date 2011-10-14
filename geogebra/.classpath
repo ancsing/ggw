@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="build/|icons/|installer/|lib/|scripts/|webstart/|xsd/" kind="src" path="">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="geogebra/lib/build/jogl1/linux-i586"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/build/jogl1/jar/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/build/jogl1/jar/jogl.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="lib/build/lib_jsobject.jar"/>
+	<classpathentry kind="lib" path="lib/build/lib_mac_extensions.jar"/>
+	<classpathentry kind="lib" path="lib/jython.jar"/>
+	<classpathentry kind="lib" path="lib/jlatexmath.jar"/>
+	<classpathentry kind="lib" path="lib/jlm_greek.jar"/>
+	<classpathentry kind="lib" path="lib/jlm_cyrillic.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/geogebracommon"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

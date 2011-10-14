@@ -1,0 +1,1 @@
+Choose "use as source folder" from popup menu.
